@@ -105,31 +105,31 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
-      title: "Project 1",
+      title: "Equinix Internship",
       live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mock1,
     },
     {
-      title: "Project 2",
+      title: "NicheSolv Internship",
       live: "https://paytonpierce.dev",
       source: "https://github.com/paytonjewell",
       image: mock2,
     },
     {
-      title: "Project 3",
+      title: "G.E. Healthcare Internship",
       live: "https://paytonpierce.dev",
       source: "https://github.com/paytonjewell",
       image: mock3,
     },
     {
-      title: "Project 4",
+      title: "Spokesly Internship",
       live: "https://paytonpierce.dev",
       source: "https://github.com/paytonjewell",
       image: mock4,
     },
     {
-      title: "Project 5",
+      title: "Resume",
       live: "https://paytonpierce.dev",
       source: "https://github.com/paytonjewell",
       image: mock5,
