@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.f31807f5.css",
-    "main.js": "/Portfolio-React/static/js/main.8dbe4cd7.js",
-    "static/media/mock5.png": "/Portfolio-React/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "main.js": "/Portfolio-React/static/js/main.183c8f7e.js",
     "static/media/self.png": "/Portfolio-React/static/media/self.aee462936ba9b2cd418f.png",
-    "static/media/mock2.png": "/Portfolio-React/static/media/mock2.e8ed2c07928dfdc15a79.png",
-    "static/media/mock1.png": "/Portfolio-React/static/media/mock1.e11f6103909e8c52d703.png",
-    "static/media/mock3.png": "/Portfolio-React/static/media/mock3.8624cffbb7ae4e742c4c.png",
-    "static/media/mock4.png": "/Portfolio-React/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
+    "static/media/mock1.png": "/Portfolio-React/static/media/mock1.53d9405b410af58fc568.png",
+    "static/media/mock2.png": "/Portfolio-React/static/media/mock2.53d9405b410af58fc568.png",
+    "static/media/mock3.png": "/Portfolio-React/static/media/mock3.53d9405b410af58fc568.png",
+    "static/media/mock4.png": "/Portfolio-React/static/media/mock4.53d9405b410af58fc568.png",
+    "static/media/mock5.png": "/Portfolio-React/static/media/mock5.53d9405b410af58fc568.png",
     "index.html": "/Portfolio-React/index.html",
     "main.f31807f5.css.map": "/Portfolio-React/static/css/main.f31807f5.css.map",
-    "main.8dbe4cd7.js.map": "/Portfolio-React/static/js/main.8dbe4cd7.js.map"
+    "main.183c8f7e.js.map": "/Portfolio-React/static/js/main.183c8f7e.js.map"
   },
   "entrypoints": [
     "static/css/main.f31807f5.css",
-    "static/js/main.8dbe4cd7.js"
+    "static/js/main.183c8f7e.js"
   ]
 }
