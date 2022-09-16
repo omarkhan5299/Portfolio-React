@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.f31807f5.css",
-    "main.js": "/Portfolio-React/static/js/main.183c8f7e.js",
-    "static/media/self.png": "/Portfolio-React/static/media/self.aee462936ba9b2cd418f.png",
-    "static/media/mock1.png": "/Portfolio-React/static/media/mock1.53d9405b410af58fc568.png",
-    "static/media/mock2.png": "/Portfolio-React/static/media/mock2.53d9405b410af58fc568.png",
-    "static/media/mock3.png": "/Portfolio-React/static/media/mock3.53d9405b410af58fc568.png",
-    "static/media/mock4.png": "/Portfolio-React/static/media/mock4.53d9405b410af58fc568.png",
-    "static/media/mock5.png": "/Portfolio-React/static/media/mock5.53d9405b410af58fc568.png",
+    "main.js": "/Portfolio-React/static/js/main.ece4f5b7.js",
+    "static/media/mock2.png": "/Portfolio-React/static/media/mock2.9cab3574fc2017fbc9ec.png",
+    "static/media/self.png": "/Portfolio-React/static/media/self.95d666177442fb141ff2.png",
+    "static/media/mock4.png": "/Portfolio-React/static/media/mock4.72223738d7a11fc64b3f.png",
+    "static/media/mock3.png": "/Portfolio-React/static/media/mock3.d872ea74d4cb3eb8b5e3.png",
+    "static/media/mock1.png": "/Portfolio-React/static/media/mock1.4e06d62c00f725c149b4.png",
+    "static/media/mock5.png": "/Portfolio-React/static/media/mock5.766ddebfc4bbeec31715.png",
     "index.html": "/Portfolio-React/index.html",
     "main.f31807f5.css.map": "/Portfolio-React/static/css/main.f31807f5.css.map",
-    "main.183c8f7e.js.map": "/Portfolio-React/static/js/main.183c8f7e.js.map"
+    "main.ece4f5b7.js.map": "/Portfolio-React/static/js/main.ece4f5b7.js.map"
   },
   "entrypoints": [
     "static/css/main.f31807f5.css",
-    "static/js/main.183c8f7e.js"
+    "static/js/main.ece4f5b7.js"
   ]
 }
